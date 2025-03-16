@@ -1,0 +1,39 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Frontage Road Real Estate for Sale</title>
+<meta name="Description" content="" />
+<meta name="Keywords" content="" />
+<!-- TemplateEndEditable -->
+<link href="css/global.css" rel="stylesheet" type="text/css" />
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+<script type="text/javascript" src="scripts/fadeslideshow.js"></script>
+<script type="text/javascript" src="scripts/home_rotator.js"></script>
+<!-- TemplateParam name="id" type="text" value="" -->
+</head>
+
+<body id="@@(id)@@">
+
+<div id="center">
+
+  <div id="header"></div><!-- end header -->
+  <div class="clr"></div>
+  <div id="main_bg">
+    <div id="main_content">
+      <!-- TemplateBeginEditable name="content" -->
+        content
+      <!-- TemplateEndEditable -->
+    </div><!-- end main_content -->
+  </div><!-- end main_bg -->
+  <div id="footer">
+  	<div id="footer_text">Designed &amp; Powered by eBizResults.com</div><!-- end footer_text -->
+  </div><!-- end footer -->
+
+</div><!-- end center -->
+
+</body>
+</html>
